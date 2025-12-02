@@ -420,7 +420,7 @@ const Index = () => {
             <div>
               <h3 className="font-bold mb-4">Контакты</h3>
               <ul className="space-y-2 text-white/80">
-                <li>+7 (495) 123-45-67</li>
+                <li>+7 (999) 464-60-19</li>
                 <li>info@vysotpro.ru</li>
                 <li>г. Москва</li>
               </ul>
