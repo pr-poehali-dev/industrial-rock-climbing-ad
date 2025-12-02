@@ -42,6 +42,11 @@ const Index = () => {
       icon: "Shield",
       title: "Обслуживание зданий",
       description: "Комплексное техническое обслуживание высотных сооружений"
+    },
+    {
+      icon: "Brush",
+      title: "Герметизация межпанельных швов",
+      description: "Профессиональная герметизация и утепление швов панельных зданий"
     }
   ];
 
@@ -83,6 +88,11 @@ const Index = () => {
       image: "https://cdn.poehali.dev/projects/ddc365ce-0a59-42e7-ac57-7a97e8351a91/files/6ce160ca-e0ab-4739-a097-72499faf4986.jpg",
       title: "Мойка фасада торгового центра",
       category: "Мойка"
+    },
+    {
+      image: "https://cdn.poehali.dev/files/83c94369-4852-4739-9ad2-01f2865d0309.jpg",
+      title: "Герметизация межпанельных швов жилого комплекса",
+      category: "Герметизация"
     }
   ];
 
