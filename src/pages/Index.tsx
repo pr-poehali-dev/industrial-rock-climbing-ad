@@ -107,10 +107,7 @@ const Index = () => {
               <a href="#portfolio" className="text-foreground hover:text-primary transition-colors">Портфолио</a>
               <a href="#contacts" className="text-foreground hover:text-primary transition-colors">Контакты</a>
             </div>
-            <Button className="bg-secondary hover:bg-secondary/90">
-              <Icon name="Phone" size={18} className="mr-2" />
-              +7 (495) 123-45-67
-            </Button>
+            <Button className="bg-secondary hover:bg-secondary/90">+7 (999) 464-60-19</Button>
           </div>
         </div>
       </nav>
