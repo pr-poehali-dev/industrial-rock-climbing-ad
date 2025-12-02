@@ -119,7 +119,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
-              <h1 className="text-4xl md:text-6xl font-bold text-primary leading-tight">
+              <h1 className="text-4xl md:text-6xl text-primary leading-tight text-left font-light">
                 Профессиональные высотные работы
               </h1>
               <p className="text-xl text-muted-foreground">
@@ -140,7 +140,7 @@ const Index = () => {
               <img 
                 src="https://cdn.poehali.dev/projects/ddc365ce-0a59-42e7-ac57-7a97e8351a91/files/05459ed5-7d9b-43b2-9508-89b84d284be6.jpg"
                 alt="Промышленный альпинист на высоте"
-                className="rounded-lg shadow-2xl"
+                className="rounded-lg shadow-2xl object-contain"
               />
               <div className="absolute -bottom-6 -left-6 bg-secondary text-white p-6 rounded-lg shadow-xl">
                 <div className="text-4xl font-bold">500+</div>
