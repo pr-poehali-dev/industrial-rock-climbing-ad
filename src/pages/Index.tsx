@@ -116,7 +116,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
-              <h1 className="text-4xl md:text-6xl text-primary leading-tight text-left font-light">
+              <h1 className="md:text-6xl text-primary leading-tight text-left text-4xl font-extrabold">
                 Профессиональные высотные работы
               </h1>
               <p className="text-xl text-muted-foreground">
